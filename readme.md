@@ -12,6 +12,7 @@
 |[Live Link](https://netflix-app-with-nextjs.vercel.app/)|React, Next.js, Firebase, TailwindCss, React-Toastify, React-Router-Dom|[Netflix App](https://github.com/furkan-dogu/netflix-app-with-nextjs)
 |[Live Link](https://movie-app-khaki-three.vercel.app/)|React, Axios, TailwindCss, Firebase, React-Router-Dom, React-Toastify|[Movie App](https://github.com/furkan-dogu/movie-app)
 |[Live Link](https://qr-code-generator-and-scanner-woad.vercel.app/)|React, React-Router-Dom, React-Icons, React-QR-Code, Html5-QRcode|[QR Code Scanner and Generator](https://github.com/furkan-dogu/QR-code-generator-and-scanner)
+|[Live Link](https://furkan-store-with-nextjs.vercel.app/)|React, NextJS, Axios, TailwindCss, SweetAlert2, React-Icons|[Furkan Store with NextJS](https://github.com/furkan-dogu/furkan-store-with-nextjs)
 |[Live Link](https://furkan-store.vercel.app/)|React, Axios, TailwindCss, SweetAlert2, React-Router-Dom, React-Icons|[Furkan Store](https://github.com/furkan-dogu/furkan-store)
 |[Live Link](https://recipe-app-dun.vercel.app/)|React, Axios, Styled Components, React-Router-Dom, React-Icons|[Recipe App](https://github.com/furkan-dogu/recipe-app)
 |[Live Link](https://react-weather-app-omega-pink.vercel.app/)|React, Axios, SweetAlert2, React-Icons|[Weather App](https://github.com/furkan-dogu/react-weather-app)
